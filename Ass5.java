@@ -1,5 +1,6 @@
 public class Ass5
 {
+	//Comment by Dhananjay
 	public static void main(String []args)
 	{
 		int i,j=5;
